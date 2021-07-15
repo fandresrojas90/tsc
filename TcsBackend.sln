@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcsBackend", "TcsBackend\TcsBackend.csproj", "{6ED4B205-A034-4981-8A26-8D7D4232AC66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitario", "TestUnitario\TestUnitario.csproj", "{2C09542F-8858-4728-A5DC-34ABD7FE3EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Letra", "Letra\Letra.csproj", "{E0DBDE45-36A4-43E6-9334-8ACC0C2C762F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED4B205-A034-4981-8A26-8D7D4232AC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED4B205-A034-4981-8A26-8D7D4232AC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED4B205-A034-4981-8A26-8D7D4232AC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED4B205-A034-4981-8A26-8D7D4232AC66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C09542F-8858-4728-A5DC-34ABD7FE3EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C09542F-8858-4728-A5DC-34ABD7FE3EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C09542F-8858-4728-A5DC-34ABD7FE3EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C09542F-8858-4728-A5DC-34ABD7FE3EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0DBDE45-36A4-43E6-9334-8ACC0C2C762F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0DBDE45-36A4-43E6-9334-8ACC0C2C762F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0DBDE45-36A4-43E6-9334-8ACC0C2C762F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0DBDE45-36A4-43E6-9334-8ACC0C2C762F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86BFBFEF-BDBB-453B-917A-311EEF359815}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\fandr\OneDrive\Documentos\Documentos\Angular\TcsBackend\Letra\bin\Debug\netcoreapp3.1\Letra.exe
+C:\Users\fandr\OneDrive\Documentos\Documentos\Angular\TcsBackend\Letra\bin\Debug\netcoreapp3.1\Letra.deps.json
+C:\Users\fandr\OneDrive\Documentos\Documentos\Angular\TcsBackend\Letra\bin\Debug\netcoreapp3.1\Letra.runtimeconfig.json
+C:\Users\fandr\OneDrive\Documentos\Documentos\Angular\TcsBackend\Letra\bin\Debug\netcoreapp3.1\Letra.runtimeconfig.dev.json
+C:\Users\fandr\OneDrive\Documentos\Documentos\Angular\TcsBackend\Letra\bin\Debug\netcoreapp3.1\Letra.dll
+C:\Users\fandr\OneDrive\Documentos\Documentos\Angular\TcsBackend\Letra\bin\Debug\netcoreapp3.1\Letra.pdb
+C:\Users\fandr\OneDrive\Documentos\Documentos\Angular\TcsBackend\Letra\obj\Debug\netcoreapp3.1\Letra.csprojAssemblyReference.cache
+C:\Users\fandr\OneDrive\Documentos\Documentos\Angular\TcsBackend\Letra\obj\Debug\netcoreapp3.1\Letra.AssemblyInfoInputs.cache
+C:\Users\fandr\OneDrive\Documentos\Documentos\Angular\TcsBackend\Letra\obj\Debug\netcoreapp3.1\Letra.AssemblyInfo.cs
+C:\Users\fandr\OneDrive\Documentos\Documentos\Angular\TcsBackend\Letra\obj\Debug\netcoreapp3.1\Letra.csproj.CoreCompileInputs.cache
+C:\Users\fandr\OneDrive\Documentos\Documentos\Angular\TcsBackend\Letra\obj\Debug\netcoreapp3.1\Letra.dll
+C:\Users\fandr\OneDrive\Documentos\Documentos\Angular\TcsBackend\Letra\obj\Debug\netcoreapp3.1\Letra.pdb
+C:\Users\fandr\OneDrive\Documentos\Documentos\Angular\TcsBackend\Letra\obj\Debug\netcoreapp3.1\Letra.genruntimeconfig.cache
